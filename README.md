@@ -23,11 +23,11 @@ Batch size influences gradient stability and sample efficiency.
 
 # Plots:
 
-<img width="1007" height="466" alt="Image" src="../Assignment3/assets/images/scores_per_episode.png" />
+<img width="1007" height="466" alt="Image" src="assets/images/scores_per_episode.png" />
 
 ---
 
-<img width="1007" height="466" alt="Image" src="../Assignment3/assets/images/avgReward.png" />
+<img width="1007" height="466" alt="Image" src="assets/images/avgReward.png" />
 
 ---
 
@@ -41,11 +41,11 @@ Update rate affects Q-value stability.
 
 # Plots
 
-<img width="1007" height="466" alt="Image" src="../Assignment3/assets/images/scorePerEpissodetup.png" />
+<img width="1007" height="466" alt="Image" src="assets/images/scorePerEpissodetup.png" />
 
 ---
 
-<img width="1007" height="466" alt="Image" src="../Assignment3/assets/images/avgRewatdTP.png" />
+<img width="1007" height="466" alt="Image" src="assets/images/avgRewatdTP.png" />
 
 ---
 
